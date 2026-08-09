@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-jzoys3.indocuan-vip.sbs/sitemap.xml
